@@ -1,0 +1,41 @@
+body {
+    background-color: #f7f7f2;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#herbDescription,
+#herbMemo,
+#foundHerbDescription,
+#foundHerbMemo {
+    white-space: pre-line;
+    padding-left: 30px;
+}
+
+.resultTitle {
+    padding-left: 15px;
+    font-weight: bold;
+    color: #555555;
+}
